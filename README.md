@@ -87,19 +87,28 @@ This feature allows users to identify plants through photos. Users can upload a 
 
 ## 🛠️ Tech Stack
 
-- ### HTML, CSS, JavaScript & ReactJS + Vite
-- ### Node.js & Express.js
-- ### Postman
-- ### API:
-  **Trefle.io**
-  
-  **PlantNet.org**
-- ### Figma
-  [Wireframe](https://www.figma.com/design/25A2Nlm5MoPiVoktFTghRz/Flant?node-id=0-1&t=mPp3X8dekwWd7Ike-1)
-  
-- ### Adobe Photoshop
-- ### Vercel
-- ### Railway
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- ReactJS + Vite
+
+### Backend
+- Node.js
+- Express.js
+- Postman
+
+### API & Library
+- Trefle.io ([Trefle.io](https://trefle.io/))
+- PlantNet.org ([PlantNet.org](https://plantnet.org/en/))
+
+### Deployment
+- Vercel (For Frontend)
+- Railway (For Backend)
+
+### Design
+- Figma (UI/UX) ([Wireframe](https://www.figma.com/design/25A2Nlm5MoPiVoktFTghRz/Flant?node-id=0-1&t=mPp3X8dekwWd7Ike-1))
+- Adobe Photoshop (Create Logo)
 
 ## 📝 Notes
 All stock photos used for this project are from Pexels and Unsplash
