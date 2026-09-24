@@ -85,6 +85,125 @@ This feature allows users to identify plants through photos. Users can upload a 
 
    Once the testing phase was completed, the website was published for general user access. The deployment process was managed through Vercel.
 
+## 🏗️ File Structure
+
+```
+Flant
+│
+├── README.md
+├── .gitignore
+├── Banner.png
+├── SDLC-Waterfall.png
+├── eslint.config.js
+├── index.html
+├── package.json
+├── package-lock.json
+├── vercel.json
+├── vite.config.js
+│
+├── backend
+│   │
+│   ├── package.json
+│   ├── package-lock.json
+│   └── server.js
+│
+├── public ── (media assets)
+│   │
+│   ├── Gambar depan.png
+│   ├── flantlogo.png
+│   ├── flantlogosmall.png
+│   ├── flantlogosmall2.png
+│   ├── flantlogosmall3.png
+│   ├── footerimage.jpg
+│   ├── georgia-de-lotz-vB-wJhosZpc-unsplash.jpg
+│   ├── hamburgericon.png
+│   ├── hamburgericon2.png
+│   ├── isaac-quesada-6xxxvB72qB0-unsplash.jpg
+│   ├── pexels-alex-qian-1180283-2304796.jpg
+│   ├── pexels-alexeydemidov-12097650.jpg
+│   ├── pexels-alexeydemidov-9314038.jpg
+│   ├── pexels-arrn-35442963.jpg
+│   ├── pexels-bianca-kida-2147898692-30003006.jpg
+│   ├── pexels-gezerasph-24880215.jpg
+│   ├── pexels-hartonosbg-34102675.jpg
+│   ├── pexels-irfansimsar-32297052.jpg
+│   ├── pexels-laziccvanja-15510739.jpg
+│   ├── pexels-maccoy-travasso-203573694-11627344.jpg
+│   ├── pexels-mithun-gahir-photography-266254368-13152523.jpg
+│   ├── pexels-niranjan-t-g-56677497-7906305.jpg
+│   ├── pexels-ronald-gavassa-2148721101-30245038.jpg
+│   ├── pexels-sonny-17133329.jpg
+│   ├── searchicon.png
+│   ├── searchicon2.png
+│   ├── searchicon3.png
+│   ├── vite.svg
+│   ├── wideimage.jpg
+│   ├── wideimage4-1920x1118.jpg
+│   └── wideimage5-1920x1118.jpg
+│
+│
+└── src
+    │
+    ├── main.jsx
+    ├── main.css
+    │
+    ├── assets
+    │   └── react.svg
+    │
+    ├── pages
+    │   ├── about.jsx
+    │   ├── home.css
+    │   ├── home.jsx
+    │   ├── search.jsx
+    │   └── searchbyimage.jsx
+    │
+    └── components
+        │
+        ├── aploadphoto.css
+        ├── aploadphoto.jsx
+        ├── buttonlogin.css
+        ├── buttonlogin.jsx
+        ├── card.css
+        ├── card.jsx
+        ├── cardsearch.css
+        ├── cardsearch.jsx
+        ├── carousel.css
+        ├── carousel.jsx
+        ├── content1.css
+        ├── content1.jsx
+        ├── footer.css
+        ├── footer.jsx
+        ├── sidebar.css
+        ├── sidebar.jsx
+        ├── textarea2.css
+        ├── textarea2.jsx
+        ├── topbar.css
+        ├── topbar.jsx
+        ├── widebox1.css
+        ├── widebox1.jsx
+        ├── widebox2.css
+        ├── widebox2.jsx
+        │
+        ├── about
+        │   ├── text.css
+        │   └── text.jsx
+        │
+        ├── home
+        │   ├── area1.jsx
+        │   ├── area2.css
+        │   ├── area2.jsx
+        │   ├── area3.css
+        │   ├── area3.jsx
+        │   ├── area4.css
+        │   ├── area4.jsx
+        │   ├── area5.css
+        │   └── area5.jsx
+        │
+        └── search
+            ├── searchbar.css
+            └── searchbar.jsx
+```
+
 ## 🛠️ Tech Stack
 
 ### Frontend
