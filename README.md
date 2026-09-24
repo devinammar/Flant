@@ -98,7 +98,7 @@ This feature allows users to identify plants through photos. Users can upload a 
 - Express.js
 - Postman
 
-### API & Library
+### API
 - Trefle.io ([Trefle.io](https://trefle.io/))
 - PlantNet.org ([PlantNet.org](https://plantnet.org/en/))
 
