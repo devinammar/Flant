@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/devinammar/Flant/blob/0dcee07177051235ff5cbd3dcd43bb5a1a084f52/banner-flant.png" alt="Problems" width="900">
+  <img src="https://github.com/devinammar/Flant/blob/1befa72e0391df29399e7f48f0c73f82a3863ea3/Banner.png" alt="Problems" width="900">
 </p>
 
 Flant is a botanical platform based on plant identification, where anyone can search for plants by name or image from any species and get information containing the common name, scientific name, family, genus, year identified, and plant image in a single card view. With a user-friendly interface, Flant is designed to simplify access to botanical information quickly and factually, while also serving as a real contribution to the SDGs, particularly in supporting biodiversity conservation and improving environmental literacy.
